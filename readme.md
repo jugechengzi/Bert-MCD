@@ -1,6 +1,6 @@
 This repo contains the code for [MCD](https://github.com/jugechengzi/Rationalization-MCD) with pretrained bert/electra.
 
-Here is a demo about how to run it.
+Here is a demo about how to run it. You can refer to [MCD](https://github.com/jugechengzi/Rationalization-MCD) for the environments.
 
 **First, train a classifier.**  Since I find that the training of BERT is unstable, I no more share the parameters of the two approximaters as shown in Figure 3. You need to train a classifier and save it, which is used to approximate the distribution $P(Y|X)$.You can get the classifier with:  
 
