@@ -1,4 +1,4 @@
-This repo contains the code for MCD with pretrained bert/electra.
+This repo contains the code for [MCD](https://github.com/jugechengzi/Rationalization-MCD) with pretrained bert/electra.
 
 Here is a demo about how to run it.
 
